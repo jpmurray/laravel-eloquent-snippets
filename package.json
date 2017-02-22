@@ -1,7 +1,7 @@
 {
   "name": "laravel-eloquent-snippets",
   "main": "./lib/laravel-eloquent-snippets",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "Snippets for Atom to generate Eloquent code based on Adam Wathan's snippets for Sublime Text.",
   "activationCommands": {
     "atom-workspace": "laravel-eloquent-snippets:toggle"
